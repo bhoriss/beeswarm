@@ -1,6 +1,8 @@
 beeswarm
 ========
 
+modifé une ligne
+
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/beeswarm)](https://cran.r-project.org/package=beeswarm)
 [![CRAN_Downloads_Badge](http://cranlogs.r-pkg.org/badges/beeswarm)](https://cran.r-project.org/package=beeswarm)
 
